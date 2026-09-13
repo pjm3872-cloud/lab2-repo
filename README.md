@@ -1,1 +1,1 @@
-# lab2-1-repo
+# lab2-repo
